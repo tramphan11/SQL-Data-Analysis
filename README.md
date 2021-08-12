@@ -1,4 +1,4 @@
-# DATA ANALYSIS WITH SQL
+# MUSIC STORE
 Used SQL to explore the database to obtain insights and answer a series of questions about a Digital Music Sales Business
 
 ### Data
