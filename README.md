@@ -1,1 +1,1 @@
-# SQL-Data-Analysis-Digital Music Store
+# SQL Data Analysis Digital Music - Chinook Database
